@@ -30,8 +30,8 @@ A new app for demonstrating Camera
 <table>
   <tr>
     <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20197.png" height="480px"></td>
-    <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20196.png" height="480px"></td>
     <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20200.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20196.png" height="480px"></td>
     <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20198.png" height="480px"></td>
     <td><img src="https://github.com/MarvelApps-Flutter/flutter_camera/blob/dev/camerarecorder/iOS%20Frames/Group%20201.png" height="480px"></td>
 
